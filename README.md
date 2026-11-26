@@ -1,3 +1,5 @@
+> **Archive Notice:** This experimental firmware scaffold repository has been archived until active ESP32 development begins.
+
 # ESP CoreBlow Node
 
 ESP CoreBlow node.
